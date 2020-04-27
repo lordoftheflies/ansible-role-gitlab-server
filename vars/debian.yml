@@ -1,0 +1,5 @@
+---
+# roles/gitlab-server/vars/debian.yml
+
+# Debian specific vars
+gitlab-server_package_extension: 'deb'
